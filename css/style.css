@@ -1,0 +1,32 @@
+.content-center {
+    text-align: center;
+
+}
+.bg-lightgrey {
+    background-color: lightgrey;
+
+}
+
+#hrtitle{
+    border: 2px solid goldenrod;
+    border-radius: 3px;
+  }
+
+  .goldenrod{
+    color: goldenrod;
+  }
+
+  
+#hrfooter{
+    border: 1px solid goldenrod;
+    border-radius: 2px;
+  }
+
+h3 {
+    font-style: italic;
+
+}
+body {
+    width: 80%;
+    margin: auto;
+}
